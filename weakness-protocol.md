@@ -89,4 +89,20 @@ Keys for uni-tasking
 
 ### The phone trap
 
+Attention is a limited resource. Phone notifications attempt to actively divert your attention away from your current task.
+
+Simplest solution is to eliminate all notifications. For me this simply means no social media apps are present.
+
+Facebook messaging is used but almost all notifications are turned off except for select individuals.
+
+Everyone is instructed to call me in case of an emergency.
+
+As a related side note, aggressively eliminate all email subscriptions. For things that you truly want to receive using filters and / or email actions can help tremendously.   
+  
+Personally I don't have problems controlling my email flow, as such, it's the only notification I allow.
+
+In general my phone is placed away from me and only checked during downtime, primarily I am able to do this because there are no notifications that constantly ping me. For deep work my phone is silent and placed away from me so I am not distracted by it.
+
+This was not always the case for me, but since I have been consistently avoiding using my phone I am no longer weak against it.
+
 
